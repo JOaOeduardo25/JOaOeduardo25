@@ -13,3 +13,5 @@
 </div><br>
 Olá, sou um Desenvolvedor Web Jr. Estou entusiasmado em  contribuir para desafios inovadores no mundo do desenvolvimento Front-End.
 
+![snake gif](https://github.com/JOaOeduardo25/JOaOeduardo25/blob/output/github-contribution-grid-snake.gif)
+
